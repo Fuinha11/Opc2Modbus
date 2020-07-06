@@ -2,5 +2,5 @@
 
 ## How to
 
-1- Run the Server.py
-1- Run Opc2Modbus.py
+1. Run the Server.py
+1. Run Opc2Modbus.py
